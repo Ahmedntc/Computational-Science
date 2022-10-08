@@ -1,2 +1,2 @@
 
-Para instalar as bibliotecas necessárias use pip install -r requirements.txt
+Repositório contendo Exercicios feito nas aulas de Computação científica.

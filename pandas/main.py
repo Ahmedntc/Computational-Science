@@ -15,7 +15,3 @@ import numpy as np
 # 5. Adicionar um campo Compactação cujo o cálculo é C = 4*pi*A/P^2
 # 6. Exportar para CSV o valor final
 
-
-csv = pd.read_csv('seeds.csv', sep='\t', names=['Área A', 'Perímetro P', 'Extensão do núcleo', 
-'Largura', ' Coeficiente de Assimetria', 'Extensão do sulgo do núcleo'])
-print(csv)

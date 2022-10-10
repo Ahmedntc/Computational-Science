@@ -16,3 +16,6 @@ import numpy as np
 # 6. Exportar para CSV o valor final
 
 
+csv = pd.read_csv('seeds.csv', sep='\t', names=['Área A', 'Perímetro P', 'Extensão do núcleo', 
+'Largura', ' Coeficiente de Assimetria', 'Extensão do sulgo do núcleo'])
+print(csv)

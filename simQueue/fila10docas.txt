@@ -1,0 +1,1312 @@
+  1 chegou no posto em 1.62
+  1 entrou na fila para carregar em 1.62
+  1 saiu da fila e foi para a doca 1.62
+  2 chegou no posto em 5.44
+  2 entrou na fila para carregar em 5.44
+  2 saiu da fila e foi para a doca 5.44
+  3 chegou no posto em 6.96
+  3 entrou na fila para carregar em 6.96
+  3 saiu da fila e foi para a doca 6.96
+  1 permaneceu na doca por 7.42
+  4 chegou no posto em 9.28
+  4 entrou na fila para carregar em 9.28
+  4 saiu da fila e foi para a doca 9.28
+  5 chegou no posto em 9.97
+  5 entrou na fila para carregar em 9.97
+  5 saiu da fila e foi para a doca 9.97
+  2 permaneceu na doca por 5.78
+  4 permaneceu na doca por 6.72
+  6 chegou no posto em 16.28
+  6 entrou na fila para carregar em 16.28
+  6 saiu da fila e foi para a doca 16.28
+  7 chegou no posto em 16.73
+  7 entrou na fila para carregar em 16.73
+  7 saiu da fila e foi para a doca 16.73
+  8 chegou no posto em 17.40
+  8 entrou na fila para carregar em 17.40
+  8 saiu da fila e foi para a doca 17.40
+  6 permaneceu na doca por 2.82
+  3 permaneceu na doca por 14.23
+  8 permaneceu na doca por 5.70
+  5 permaneceu na doca por 13.39
+  9 chegou no posto em 23.67
+  9 entrou na fila para carregar em 23.67
+  9 saiu da fila e foi para a doca 23.67
+  7 permaneceu na doca por 12.40
+ 10 chegou no posto em 30.42
+ 10 entrou na fila para carregar em 30.42
+ 10 saiu da fila e foi para a doca 30.42
+  9 permaneceu na doca por 8.48
+ 10 permaneceu na doca por 6.37
+ 11 chegou no posto em 39.92
+ 11 entrou na fila para carregar em 39.92
+ 11 saiu da fila e foi para a doca 39.92
+ 12 chegou no posto em 42.21
+ 12 entrou na fila para carregar em 42.21
+ 12 saiu da fila e foi para a doca 42.21
+ 11 permaneceu na doca por 5.70
+ 13 chegou no posto em 45.69
+ 13 entrou na fila para carregar em 45.69
+ 13 saiu da fila e foi para a doca 45.69
+ 14 chegou no posto em 51.08
+ 14 entrou na fila para carregar em 51.08
+ 14 saiu da fila e foi para a doca 51.08
+ 15 chegou no posto em 51.41
+ 15 entrou na fila para carregar em 51.41
+ 15 saiu da fila e foi para a doca 51.41
+ 16 chegou no posto em 53.19
+ 16 entrou na fila para carregar em 53.19
+ 16 saiu da fila e foi para a doca 53.19
+ 17 chegou no posto em 54.21
+ 17 entrou na fila para carregar em 54.21
+ 17 saiu da fila e foi para a doca 54.21
+ 18 chegou no posto em 54.63
+ 18 entrou na fila para carregar em 54.63
+ 18 saiu da fila e foi para a doca 54.63
+ 12 permaneceu na doca por 12.43
+ 19 chegou no posto em 56.66
+ 19 entrou na fila para carregar em 56.66
+ 19 saiu da fila e foi para a doca 56.66
+ 20 chegou no posto em 56.82
+ 20 entrou na fila para carregar em 56.82
+ 20 saiu da fila e foi para a doca 56.82
+ 13 permaneceu na doca por 11.70
+ 14 permaneceu na doca por 6.95
+ 21 chegou no posto em 59.49
+ 21 entrou na fila para carregar em 59.49
+ 21 saiu da fila e foi para a doca 59.49
+ 15 permaneceu na doca por 8.20
+ 18 permaneceu na doca por 6.46
+ 17 permaneceu na doca por 6.94
+ 19 permaneceu na doca por 5.65
+ 22 chegou no posto em 63.10
+ 22 entrou na fila para carregar em 63.10
+ 22 saiu da fila e foi para a doca 63.10
+ 16 permaneceu na doca por 10.59
+ 20 permaneceu na doca por 9.70
+ 23 chegou no posto em 66.66
+ 23 entrou na fila para carregar em 66.66
+ 23 saiu da fila e foi para a doca 66.66
+ 21 permaneceu na doca por 8.42
+ 24 chegou no posto em 68.26
+ 24 entrou na fila para carregar em 68.26
+ 24 saiu da fila e foi para a doca 68.26
+ 22 permaneceu na doca por 6.34
+ 25 chegou no posto em 71.53
+ 25 entrou na fila para carregar em 71.53
+ 25 saiu da fila e foi para a doca 71.53
+ 26 chegou no posto em 73.70
+ 26 entrou na fila para carregar em 73.70
+ 26 saiu da fila e foi para a doca 73.70
+ 24 permaneceu na doca por 7.09
+ 23 permaneceu na doca por 9.15
+ 27 chegou no posto em 80.71
+ 27 entrou na fila para carregar em 80.71
+ 27 saiu da fila e foi para a doca 80.71
+ 25 permaneceu na doca por 9.36
+ 28 chegou no posto em 81.16
+ 28 entrou na fila para carregar em 81.16
+ 28 saiu da fila e foi para a doca 81.16
+ 29 chegou no posto em 82.68
+ 29 entrou na fila para carregar em 82.68
+ 29 saiu da fila e foi para a doca 82.68
+ 30 chegou no posto em 83.22
+ 30 entrou na fila para carregar em 83.22
+ 30 saiu da fila e foi para a doca 83.22
+ 26 permaneceu na doca por 10.85
+ 31 chegou no posto em 87.39
+ 31 entrou na fila para carregar em 87.39
+ 31 saiu da fila e foi para a doca 87.39
+ 28 permaneceu na doca por 7.94
+ 27 permaneceu na doca por 9.90
+ 29 permaneceu na doca por 8.37
+ 32 chegou no posto em 91.27
+ 32 entrou na fila para carregar em 91.27
+ 32 saiu da fila e foi para a doca 91.27
+ 30 permaneceu na doca por 10.76
+ 33 chegou no posto em 95.44
+ 33 entrou na fila para carregar em 95.44
+ 33 saiu da fila e foi para a doca 95.44
+ 34 chegou no posto em 96.73
+ 34 entrou na fila para carregar em 96.73
+ 34 saiu da fila e foi para a doca 96.73
+ 31 permaneceu na doca por 9.86
+ 35 chegou no posto em 98.41
+ 35 entrou na fila para carregar em 98.41
+ 35 saiu da fila e foi para a doca 98.41
+ 32 permaneceu na doca por 11.66
+ 34 permaneceu na doca por 8.11
+ 33 permaneceu na doca por 10.54
+ 36 chegou no posto em 108.45
+ 36 entrou na fila para carregar em 108.45
+ 36 saiu da fila e foi para a doca 108.45
+ 37 chegou no posto em 108.82
+ 37 entrou na fila para carregar em 108.82
+ 37 saiu da fila e foi para a doca 108.82
+ 35 permaneceu na doca por 12.39
+ 38 chegou no posto em 117.77
+ 38 entrou na fila para carregar em 117.77
+ 38 saiu da fila e foi para a doca 117.77
+ 39 chegou no posto em 119.35
+ 39 entrou na fila para carregar em 119.35
+ 39 saiu da fila e foi para a doca 119.35
+ 40 chegou no posto em 120.16
+ 40 entrou na fila para carregar em 120.16
+ 40 saiu da fila e foi para a doca 120.16
+ 41 chegou no posto em 120.17
+ 41 entrou na fila para carregar em 120.17
+ 41 saiu da fila e foi para a doca 120.17
+ 36 permaneceu na doca por 13.56
+ 38 permaneceu na doca por 4.81
+ 42 chegou no posto em 123.05
+ 42 entrou na fila para carregar em 123.05
+ 42 saiu da fila e foi para a doca 123.05
+ 37 permaneceu na doca por 15.56
+ 42 permaneceu na doca por 2.93
+ 39 permaneceu na doca por 9.48
+ 43 chegou no posto em 129.56
+ 43 entrou na fila para carregar em 129.56
+ 43 saiu da fila e foi para a doca 129.56
+ 41 permaneceu na doca por 9.95
+ 44 chegou no posto em 130.89
+ 44 entrou na fila para carregar em 130.89
+ 44 saiu da fila e foi para a doca 130.89
+ 45 chegou no posto em 130.93
+ 45 entrou na fila para carregar em 130.93
+ 45 saiu da fila e foi para a doca 130.93
+ 40 permaneceu na doca por 11.63
+ 46 chegou no posto em 138.89
+ 46 entrou na fila para carregar em 138.89
+ 46 saiu da fila e foi para a doca 138.89
+ 43 permaneceu na doca por 9.69
+ 45 permaneceu na doca por 8.33
+ 44 permaneceu na doca por 11.29
+ 47 chegou no posto em 146.98
+ 47 entrou na fila para carregar em 146.98
+ 47 saiu da fila e foi para a doca 146.98
+ 46 permaneceu na doca por 8.40
+ 48 chegou no posto em 150.56
+ 48 entrou na fila para carregar em 150.56
+ 48 saiu da fila e foi para a doca 150.56
+ 49 chegou no posto em 154.29
+ 49 entrou na fila para carregar em 154.29
+ 49 saiu da fila e foi para a doca 154.29
+ 50 chegou no posto em 154.69
+ 50 entrou na fila para carregar em 154.69
+ 50 saiu da fila e foi para a doca 154.69
+ 47 permaneceu na doca por 9.59
+ 51 chegou no posto em 157.10
+ 51 entrou na fila para carregar em 157.10
+ 51 saiu da fila e foi para a doca 157.10
+ 48 permaneceu na doca por 9.36
+ 52 chegou no posto em 162.64
+ 52 entrou na fila para carregar em 162.64
+ 52 saiu da fila e foi para a doca 162.64
+ 49 permaneceu na doca por 9.37
+ 51 permaneceu na doca por 7.87
+ 53 chegou no posto em 165.28
+ 53 entrou na fila para carregar em 165.28
+ 53 saiu da fila e foi para a doca 165.28
+ 50 permaneceu na doca por 12.39
+ 52 permaneceu na doca por 7.08
+ 53 permaneceu na doca por 7.97
+ 54 chegou no posto em 175.76
+ 54 entrou na fila para carregar em 175.76
+ 54 saiu da fila e foi para a doca 175.76
+ 55 chegou no posto em 180.60
+ 55 entrou na fila para carregar em 180.60
+ 55 saiu da fila e foi para a doca 180.60
+ 56 chegou no posto em 181.39
+ 56 entrou na fila para carregar em 181.39
+ 56 saiu da fila e foi para a doca 181.39
+ 54 permaneceu na doca por 9.13
+ 57 chegou no posto em 187.37
+ 57 entrou na fila para carregar em 187.37
+ 57 saiu da fila e foi para a doca 187.37
+ 55 permaneceu na doca por 7.66
+ 58 chegou no posto em 191.49
+ 58 entrou na fila para carregar em 191.49
+ 58 saiu da fila e foi para a doca 191.49
+ 59 chegou no posto em 191.68
+ 59 entrou na fila para carregar em 191.68
+ 59 saiu da fila e foi para a doca 191.68
+ 60 chegou no posto em 192.07
+ 60 entrou na fila para carregar em 192.07
+ 60 saiu da fila e foi para a doca 192.07
+ 57 permaneceu na doca por 5.72
+ 56 permaneceu na doca por 12.67
+ 61 chegou no posto em 194.53
+ 61 entrou na fila para carregar em 194.53
+ 61 saiu da fila e foi para a doca 194.53
+ 62 chegou no posto em 194.57
+ 62 entrou na fila para carregar em 194.57
+ 62 saiu da fila e foi para a doca 194.57
+ 63 chegou no posto em 195.44
+ 63 entrou na fila para carregar em 195.44
+ 63 saiu da fila e foi para a doca 195.44
+ 60 permaneceu na doca por 6.14
+ 61 permaneceu na doca por 4.88
+ 64 chegou no posto em 199.52
+ 64 entrou na fila para carregar em 199.52
+ 64 saiu da fila e foi para a doca 199.52
+ 58 permaneceu na doca por 9.51
+ 59 permaneceu na doca por 11.22
+ 62 permaneceu na doca por 9.95
+ 64 permaneceu na doca por 5.06
+ 63 permaneceu na doca por 10.05
+ 65 chegou no posto em 210.05
+ 65 entrou na fila para carregar em 210.05
+ 65 saiu da fila e foi para a doca 210.05
+ 66 chegou no posto em 215.68
+ 66 entrou na fila para carregar em 215.68
+ 66 saiu da fila e foi para a doca 215.68
+ 67 chegou no posto em 218.58
+ 67 entrou na fila para carregar em 218.58
+ 67 saiu da fila e foi para a doca 218.58
+ 65 permaneceu na doca por 8.88
+ 66 permaneceu na doca por 4.15
+ 68 chegou no posto em 223.88
+ 68 entrou na fila para carregar em 223.88
+ 68 saiu da fila e foi para a doca 223.88
+ 69 chegou no posto em 226.67
+ 69 entrou na fila para carregar em 226.67
+ 69 saiu da fila e foi para a doca 226.67
+ 67 permaneceu na doca por 8.93
+ 70 chegou no posto em 229.20
+ 70 entrou na fila para carregar em 229.20
+ 70 saiu da fila e foi para a doca 229.20
+ 69 permaneceu na doca por 3.43
+ 68 permaneceu na doca por 6.67
+ 71 chegou no posto em 231.60
+ 71 entrou na fila para carregar em 231.60
+ 71 saiu da fila e foi para a doca 231.60
+ 72 chegou no posto em 235.70
+ 72 entrou na fila para carregar em 235.70
+ 72 saiu da fila e foi para a doca 235.70
+ 73 chegou no posto em 235.91
+ 73 entrou na fila para carregar em 235.91
+ 73 saiu da fila e foi para a doca 235.91
+ 71 permaneceu na doca por 5.40
+ 74 chegou no posto em 237.29
+ 74 entrou na fila para carregar em 237.29
+ 74 saiu da fila e foi para a doca 237.29
+ 73 permaneceu na doca por 5.31
+ 75 chegou no posto em 241.49
+ 75 entrou na fila para carregar em 241.49
+ 75 saiu da fila e foi para a doca 241.49
+ 76 chegou no posto em 241.69
+ 76 entrou na fila para carregar em 241.69
+ 76 saiu da fila e foi para a doca 241.69
+ 70 permaneceu na doca por 12.71
+ 77 chegou no posto em 242.34
+ 77 entrou na fila para carregar em 242.34
+ 77 saiu da fila e foi para a doca 242.34
+ 78 chegou no posto em 245.40
+ 78 entrou na fila para carregar em 245.40
+ 78 saiu da fila e foi para a doca 245.40
+ 79 chegou no posto em 246.31
+ 79 entrou na fila para carregar em 246.31
+ 79 saiu da fila e foi para a doca 246.31
+ 80 chegou no posto em 246.52
+ 80 entrou na fila para carregar em 246.52
+ 80 saiu da fila e foi para a doca 246.52
+ 72 permaneceu na doca por 11.59
+ 74 permaneceu na doca por 10.65
+ 76 permaneceu na doca por 7.13
+ 75 permaneceu na doca por 11.38
+ 81 chegou no posto em 253.67
+ 81 entrou na fila para carregar em 253.67
+ 81 saiu da fila e foi para a doca 253.67
+ 77 permaneceu na doca por 11.41
+ 78 permaneceu na doca por 9.14
+ 80 permaneceu na doca por 11.25
+ 79 permaneceu na doca por 11.61
+ 82 chegou no posto em 261.73
+ 82 entrou na fila para carregar em 261.73
+ 82 saiu da fila e foi para a doca 261.73
+ 81 permaneceu na doca por 10.59
+ 83 chegou no posto em 270.73
+ 83 entrou na fila para carregar em 270.73
+ 83 saiu da fila e foi para a doca 270.73
+ 82 permaneceu na doca por 9.41
+ 84 chegou no posto em 273.17
+ 84 entrou na fila para carregar em 273.17
+ 84 saiu da fila e foi para a doca 273.17
+ 85 chegou no posto em 274.66
+ 85 entrou na fila para carregar em 274.66
+ 85 saiu da fila e foi para a doca 274.66
+ 86 chegou no posto em 276.65
+ 86 entrou na fila para carregar em 276.65
+ 86 saiu da fila e foi para a doca 276.65
+ 83 permaneceu na doca por 9.70
+ 84 permaneceu na doca por 11.05
+ 87 chegou no posto em 284.47
+ 87 entrou na fila para carregar em 284.47
+ 87 saiu da fila e foi para a doca 284.47
+ 85 permaneceu na doca por 12.12
+ 88 chegou no posto em 292.00
+ 88 entrou na fila para carregar em 292.00
+ 88 saiu da fila e foi para a doca 292.00
+ 86 permaneceu na doca por 15.56
+ 89 chegou no posto em 292.57
+ 89 entrou na fila para carregar em 292.57
+ 89 saiu da fila e foi para a doca 292.57
+ 90 chegou no posto em 292.98
+ 90 entrou na fila para carregar em 292.98
+ 90 saiu da fila e foi para a doca 292.98
+ 91 chegou no posto em 293.04
+ 91 entrou na fila para carregar em 293.04
+ 91 saiu da fila e foi para a doca 293.04
+ 87 permaneceu na doca por 10.32
+ 90 permaneceu na doca por 5.63
+ 91 permaneceu na doca por 7.45
+ 88 permaneceu na doca por 8.70
+ 89 permaneceu na doca por 9.05
+ 92 chegou no posto em 301.91
+ 92 entrou na fila para carregar em 301.91
+ 92 saiu da fila e foi para a doca 301.91
+ 93 chegou no posto em 302.33
+ 93 entrou na fila para carregar em 302.33
+ 93 saiu da fila e foi para a doca 302.33
+ 94 chegou no posto em 307.31
+ 94 entrou na fila para carregar em 307.31
+ 94 saiu da fila e foi para a doca 307.31
+ 92 permaneceu na doca por 6.01
+ 95 chegou no posto em 309.92
+ 95 entrou na fila para carregar em 309.92
+ 95 saiu da fila e foi para a doca 309.92
+ 93 permaneceu na doca por 10.49
+ 94 permaneceu na doca por 8.48
+ 96 chegou no posto em 316.26
+ 96 entrou na fila para carregar em 316.26
+ 96 saiu da fila e foi para a doca 316.26
+ 96 permaneceu na doca por 3.31
+ 97 chegou no posto em 321.06
+ 97 entrou na fila para carregar em 321.06
+ 97 saiu da fila e foi para a doca 321.06
+ 98 chegou no posto em 322.07
+ 98 entrou na fila para carregar em 322.07
+ 98 saiu da fila e foi para a doca 322.07
+ 99 chegou no posto em 322.12
+ 99 entrou na fila para carregar em 322.12
+ 99 saiu da fila e foi para a doca 322.12
+100 chegou no posto em 324.82
+100 entrou na fila para carregar em 324.82
+100 saiu da fila e foi para a doca 324.82
+ 95 permaneceu na doca por 15.57
+101 chegou no posto em 325.96
+101 entrou na fila para carregar em 325.96
+101 saiu da fila e foi para a doca 325.96
+ 98 permaneceu na doca por 8.25
+101 permaneceu na doca por 5.18
+102 chegou no posto em 332.66
+102 entrou na fila para carregar em 332.66
+102 saiu da fila e foi para a doca 332.66
+100 permaneceu na doca por 8.14
+ 99 permaneceu na doca por 12.99
+103 chegou no posto em 337.31
+103 entrou na fila para carregar em 337.31
+103 saiu da fila e foi para a doca 337.31
+ 97 permaneceu na doca por 16.58
+104 chegou no posto em 340.15
+104 entrou na fila para carregar em 340.15
+104 saiu da fila e foi para a doca 340.15
+102 permaneceu na doca por 9.94
+105 chegou no posto em 343.56
+105 entrou na fila para carregar em 343.56
+105 saiu da fila e foi para a doca 343.56
+103 permaneceu na doca por 8.67
+104 permaneceu na doca por 7.15
+106 chegou no posto em 351.09
+106 entrou na fila para carregar em 351.09
+106 saiu da fila e foi para a doca 351.09
+105 permaneceu na doca por 9.84
+107 chegou no posto em 353.87
+107 entrou na fila para carregar em 353.87
+107 saiu da fila e foi para a doca 353.87
+108 chegou no posto em 359.17
+108 entrou na fila para carregar em 359.17
+108 saiu da fila e foi para a doca 359.17
+106 permaneceu na doca por 8.78
+109 chegou no posto em 360.17
+109 entrou na fila para carregar em 360.17
+109 saiu da fila e foi para a doca 360.17
+110 chegou no posto em 362.83
+110 entrou na fila para carregar em 362.83
+110 saiu da fila e foi para a doca 362.83
+111 chegou no posto em 367.05
+111 entrou na fila para carregar em 367.05
+111 saiu da fila e foi para a doca 367.05
+107 permaneceu na doca por 14.71
+112 chegou no posto em 370.64
+112 entrou na fila para carregar em 370.64
+112 saiu da fila e foi para a doca 370.64
+109 permaneceu na doca por 10.81
+108 permaneceu na doca por 12.33
+110 permaneceu na doca por 10.26
+113 chegou no posto em 373.97
+113 entrou na fila para carregar em 373.97
+113 saiu da fila e foi para a doca 373.97
+111 permaneceu na doca por 7.80
+114 chegou no posto em 375.77
+114 entrou na fila para carregar em 375.77
+114 saiu da fila e foi para a doca 375.77
+115 chegou no posto em 377.31
+115 entrou na fila para carregar em 377.31
+115 saiu da fila e foi para a doca 377.31
+116 chegou no posto em 378.46
+116 entrou na fila para carregar em 378.46
+116 saiu da fila e foi para a doca 378.46
+113 permaneceu na doca por 5.00
+114 permaneceu na doca por 3.72
+112 permaneceu na doca por 11.47
+115 permaneceu na doca por 5.64
+117 chegou no posto em 389.38
+117 entrou na fila para carregar em 389.38
+117 saiu da fila e foi para a doca 389.38
+118 chegou no posto em 392.78
+118 entrou na fila para carregar em 392.78
+118 saiu da fila e foi para a doca 392.78
+116 permaneceu na doca por 14.87
+119 chegou no posto em 394.04
+119 entrou na fila para carregar em 394.04
+119 saiu da fila e foi para a doca 394.04
+117 permaneceu na doca por 8.02
+118 permaneceu na doca por 4.97
+120 chegou no posto em 398.84
+120 entrou na fila para carregar em 398.84
+120 saiu da fila e foi para a doca 398.84
+119 permaneceu na doca por 5.29
+121 chegou no posto em 399.71
+121 entrou na fila para carregar em 399.71
+121 saiu da fila e foi para a doca 399.71
+122 chegou no posto em 405.50
+122 entrou na fila para carregar em 405.50
+122 saiu da fila e foi para a doca 405.50
+123 chegou no posto em 408.05
+123 entrou na fila para carregar em 408.05
+123 saiu da fila e foi para a doca 408.05
+120 permaneceu na doca por 11.63
+124 chegou no posto em 412.01
+124 entrou na fila para carregar em 412.01
+124 saiu da fila e foi para a doca 412.01
+121 permaneceu na doca por 13.22
+125 chegou no posto em 414.54
+125 entrou na fila para carregar em 414.54
+125 saiu da fila e foi para a doca 414.54
+122 permaneceu na doca por 9.39
+126 chegou no posto em 416.42
+126 entrou na fila para carregar em 416.42
+126 saiu da fila e foi para a doca 416.42
+127 chegou no posto em 417.84
+127 entrou na fila para carregar em 417.84
+127 saiu da fila e foi para a doca 417.84
+128 chegou no posto em 418.09
+128 entrou na fila para carregar em 418.09
+128 saiu da fila e foi para a doca 418.09
+124 permaneceu na doca por 9.33
+129 chegou no posto em 421.59
+129 entrou na fila para carregar em 421.59
+129 saiu da fila e foi para a doca 421.59
+123 permaneceu na doca por 13.68
+125 permaneceu na doca por 7.36
+130 chegou no posto em 424.12
+130 entrou na fila para carregar em 424.12
+130 saiu da fila e foi para a doca 424.12
+126 permaneceu na doca por 8.40
+131 chegou no posto em 425.39
+131 entrou na fila para carregar em 425.39
+131 saiu da fila e foi para a doca 425.39
+132 chegou no posto em 426.15
+132 entrou na fila para carregar em 426.15
+132 saiu da fila e foi para a doca 426.15
+127 permaneceu na doca por 9.73
+128 permaneceu na doca por 9.61
+131 permaneceu na doca por 3.98
+130 permaneceu na doca por 5.30
+129 permaneceu na doca por 8.64
+133 chegou no posto em 433.59
+133 entrou na fila para carregar em 433.59
+133 saiu da fila e foi para a doca 433.59
+132 permaneceu na doca por 11.48
+134 chegou no posto em 440.80
+134 entrou na fila para carregar em 440.80
+134 saiu da fila e foi para a doca 440.80
+133 permaneceu na doca por 7.51
+135 chegou no posto em 441.45
+135 entrou na fila para carregar em 441.45
+135 saiu da fila e foi para a doca 441.45
+136 chegou no posto em 443.52
+136 entrou na fila para carregar em 443.52
+136 saiu da fila e foi para a doca 443.52
+137 chegou no posto em 444.38
+137 entrou na fila para carregar em 444.38
+137 saiu da fila e foi para a doca 444.38
+135 permaneceu na doca por 6.42
+134 permaneceu na doca por 8.07
+138 chegou no posto em 450.10
+138 entrou na fila para carregar em 450.10
+138 saiu da fila e foi para a doca 450.10
+139 chegou no posto em 450.90
+139 entrou na fila para carregar em 450.90
+139 saiu da fila e foi para a doca 450.90
+140 chegou no posto em 451.22
+140 entrou na fila para carregar em 451.22
+140 saiu da fila e foi para a doca 451.22
+139 permaneceu na doca por 0.62
+141 chegou no posto em 451.72
+141 entrou na fila para carregar em 451.72
+141 saiu da fila e foi para a doca 451.72
+136 permaneceu na doca por 11.02
+142 chegou no posto em 454.64
+142 entrou na fila para carregar em 454.64
+142 saiu da fila e foi para a doca 454.64
+143 chegou no posto em 455.11
+143 entrou na fila para carregar em 455.11
+143 saiu da fila e foi para a doca 455.11
+138 permaneceu na doca por 5.08
+137 permaneceu na doca por 14.43
+144 chegou no posto em 459.28
+144 entrou na fila para carregar em 459.28
+144 saiu da fila e foi para a doca 459.28
+144 permaneceu na doca por 4.42
+145 chegou no posto em 463.90
+145 entrou na fila para carregar em 463.90
+145 saiu da fila e foi para a doca 463.90
+146 chegou no posto em 463.97
+146 entrou na fila para carregar em 463.97
+146 saiu da fila e foi para a doca 463.97
+143 permaneceu na doca por 9.32
+142 permaneceu na doca por 10.76
+140 permaneceu na doca por 14.81
+141 permaneceu na doca por 15.15
+147 chegou no posto em 469.56
+147 entrou na fila para carregar em 469.56
+147 saiu da fila e foi para a doca 469.56
+146 permaneceu na doca por 7.88
+148 chegou no posto em 471.87
+148 entrou na fila para carregar em 471.87
+148 saiu da fila e foi para a doca 471.87
+149 chegou no posto em 472.19
+149 entrou na fila para carregar em 472.19
+149 saiu da fila e foi para a doca 472.19
+145 permaneceu na doca por 11.39
+150 chegou no posto em 475.35
+150 entrou na fila para carregar em 475.35
+150 saiu da fila e foi para a doca 475.35
+147 permaneceu na doca por 9.85
+151 chegou no posto em 480.17
+151 entrou na fila para carregar em 480.17
+151 saiu da fila e foi para a doca 480.17
+152 chegou no posto em 480.28
+152 entrou na fila para carregar em 480.28
+152 saiu da fila e foi para a doca 480.28
+153 chegou no posto em 481.18
+153 entrou na fila para carregar em 481.18
+153 saiu da fila e foi para a doca 481.18
+148 permaneceu na doca por 9.79
+154 chegou no posto em 482.07
+154 entrou na fila para carregar em 482.07
+154 saiu da fila e foi para a doca 482.07
+149 permaneceu na doca por 11.51
+153 permaneceu na doca por 4.68
+155 chegou no posto em 486.85
+155 entrou na fila para carregar em 486.85
+155 saiu da fila e foi para a doca 486.85
+156 chegou no posto em 488.62
+156 entrou na fila para carregar em 488.62
+156 saiu da fila e foi para a doca 488.62
+150 permaneceu na doca por 13.63
+151 permaneceu na doca por 11.28
+152 permaneceu na doca por 11.65
+155 permaneceu na doca por 6.65
+154 permaneceu na doca por 12.70
+157 chegou no posto em 495.57
+157 entrou na fila para carregar em 495.57
+157 saiu da fila e foi para a doca 495.57
+156 permaneceu na doca por 7.69
+158 chegou no posto em 497.91
+158 entrou na fila para carregar em 497.91
+158 saiu da fila e foi para a doca 497.91
+157 permaneceu na doca por 9.18
+158 permaneceu na doca por 9.63
+159 chegou no posto em 513.21
+159 entrou na fila para carregar em 513.21
+159 saiu da fila e foi para a doca 513.21
+160 chegou no posto em 515.58
+160 entrou na fila para carregar em 515.58
+160 saiu da fila e foi para a doca 515.58
+161 chegou no posto em 516.90
+161 entrou na fila para carregar em 516.90
+161 saiu da fila e foi para a doca 516.90
+162 chegou no posto em 516.98
+162 entrou na fila para carregar em 516.98
+162 saiu da fila e foi para a doca 516.98
+163 chegou no posto em 517.07
+163 entrou na fila para carregar em 517.07
+163 saiu da fila e foi para a doca 517.07
+164 chegou no posto em 518.44
+164 entrou na fila para carregar em 518.44
+164 saiu da fila e foi para a doca 518.44
+159 permaneceu na doca por 5.65
+165 chegou no posto em 521.96
+165 entrou na fila para carregar em 521.96
+165 saiu da fila e foi para a doca 521.96
+166 chegou no posto em 522.59
+166 entrou na fila para carregar em 522.59
+166 saiu da fila e foi para a doca 522.59
+162 permaneceu na doca por 6.96
+160 permaneceu na doca por 9.24
+166 permaneceu na doca por 4.59
+163 permaneceu na doca por 10.25
+161 permaneceu na doca por 10.48
+164 permaneceu na doca por 11.35
+167 chegou no posto em 536.33
+167 entrou na fila para carregar em 536.33
+167 saiu da fila e foi para a doca 536.33
+168 chegou no posto em 537.02
+168 entrou na fila para carregar em 537.02
+168 saiu da fila e foi para a doca 537.02
+165 permaneceu na doca por 15.20
+169 chegou no posto em 541.18
+169 entrou na fila para carregar em 541.18
+169 saiu da fila e foi para a doca 541.18
+167 permaneceu na doca por 6.51
+170 chegou no posto em 543.01
+170 entrou na fila para carregar em 543.01
+170 saiu da fila e foi para a doca 543.01
+168 permaneceu na doca por 6.36
+171 chegou no posto em 543.72
+171 entrou na fila para carregar em 543.72
+171 saiu da fila e foi para a doca 543.72
+172 chegou no posto em 548.53
+172 entrou na fila para carregar em 548.53
+172 saiu da fila e foi para a doca 548.53
+170 permaneceu na doca por 6.92
+173 chegou no posto em 549.97
+173 entrou na fila para carregar em 549.97
+173 saiu da fila e foi para a doca 549.97
+169 permaneceu na doca por 9.04
+174 chegou no posto em 554.13
+174 entrou na fila para carregar em 554.13
+174 saiu da fila e foi para a doca 554.13
+171 permaneceu na doca por 12.37
+172 permaneceu na doca por 9.92
+175 chegou no posto em 563.74
+175 entrou na fila para carregar em 563.74
+175 saiu da fila e foi para a doca 563.74
+174 permaneceu na doca por 11.47
+173 permaneceu na doca por 18.09
+176 chegou no posto em 568.63
+176 entrou na fila para carregar em 568.63
+176 saiu da fila e foi para a doca 568.63
+177 chegou no posto em 569.38
+177 entrou na fila para carregar em 569.38
+177 saiu da fila e foi para a doca 569.38
+178 chegou no posto em 570.31
+178 entrou na fila para carregar em 570.31
+178 saiu da fila e foi para a doca 570.31
+179 chegou no posto em 570.66
+179 entrou na fila para carregar em 570.66
+179 saiu da fila e foi para a doca 570.66
+180 chegou no posto em 573.67
+180 entrou na fila para carregar em 573.67
+180 saiu da fila e foi para a doca 573.67
+175 permaneceu na doca por 10.96
+178 permaneceu na doca por 6.61
+176 permaneceu na doca por 8.85
+177 permaneceu na doca por 8.59
+181 chegou no posto em 578.03
+181 entrou na fila para carregar em 578.03
+181 saiu da fila e foi para a doca 578.03
+182 chegou no posto em 579.29
+182 entrou na fila para carregar em 579.29
+182 saiu da fila e foi para a doca 579.29
+179 permaneceu na doca por 10.86
+183 chegou no posto em 584.50
+183 entrou na fila para carregar em 584.50
+183 saiu da fila e foi para a doca 584.50
+180 permaneceu na doca por 11.87
+181 permaneceu na doca por 8.29
+184 chegou no posto em 587.46
+184 entrou na fila para carregar em 587.46
+184 saiu da fila e foi para a doca 587.46
+185 chegou no posto em 587.54
+185 entrou na fila para carregar em 587.54
+185 saiu da fila e foi para a doca 587.54
+183 permaneceu na doca por 6.01
+182 permaneceu na doca por 12.47
+186 chegou no posto em 591.76
+186 entrou na fila para carregar em 591.76
+186 saiu da fila e foi para a doca 591.76
+187 chegou no posto em 593.57
+187 entrou na fila para carregar em 593.57
+187 saiu da fila e foi para a doca 593.57
+187 permaneceu na doca por 1.48
+188 chegou no posto em 595.36
+188 entrou na fila para carregar em 595.36
+188 saiu da fila e foi para a doca 595.36
+184 permaneceu na doca por 8.68
+188 permaneceu na doca por 2.66
+186 permaneceu na doca por 7.15
+189 chegou no posto em 600.24
+189 entrou na fila para carregar em 600.24
+189 saiu da fila e foi para a doca 600.24
+185 permaneceu na doca por 13.35
+190 chegou no posto em 601.78
+190 entrou na fila para carregar em 601.78
+190 saiu da fila e foi para a doca 601.78
+191 chegou no posto em 604.67
+191 entrou na fila para carregar em 604.67
+191 saiu da fila e foi para a doca 604.67
+192 chegou no posto em 604.70
+192 entrou na fila para carregar em 604.70
+192 saiu da fila e foi para a doca 604.70
+189 permaneceu na doca por 7.67
+190 permaneceu na doca por 9.97
+191 permaneceu na doca por 8.67
+192 permaneceu na doca por 9.03
+193 chegou no posto em 613.76
+193 entrou na fila para carregar em 613.76
+193 saiu da fila e foi para a doca 613.76
+194 chegou no posto em 620.84
+194 entrou na fila para carregar em 620.84
+194 saiu da fila e foi para a doca 620.84
+195 chegou no posto em 621.46
+195 entrou na fila para carregar em 621.46
+195 saiu da fila e foi para a doca 621.46
+193 permaneceu na doca por 8.50
+196 chegou no posto em 624.38
+196 entrou na fila para carregar em 624.38
+196 saiu da fila e foi para a doca 624.38
+194 permaneceu na doca por 8.48
+197 chegou no posto em 631.58
+197 entrou na fila para carregar em 631.58
+197 saiu da fila e foi para a doca 631.58
+198 chegou no posto em 633.12
+198 entrou na fila para carregar em 633.12
+198 saiu da fila e foi para a doca 633.12
+195 permaneceu na doca por 12.03
+199 chegou no posto em 633.50
+199 entrou na fila para carregar em 633.50
+199 saiu da fila e foi para a doca 633.50
+196 permaneceu na doca por 11.76
+197 permaneceu na doca por 6.90
+200 chegou no posto em 638.53
+200 entrou na fila para carregar em 638.53
+200 saiu da fila e foi para a doca 638.53
+198 permaneceu na doca por 7.39
+199 permaneceu na doca por 7.65
+201 chegou no posto em 643.66
+201 entrou na fila para carregar em 643.66
+201 saiu da fila e foi para a doca 643.66
+202 chegou no posto em 644.77
+202 entrou na fila para carregar em 644.77
+202 saiu da fila e foi para a doca 644.77
+200 permaneceu na doca por 6.98
+201 permaneceu na doca por 3.17
+203 chegou no posto em 652.02
+203 entrou na fila para carregar em 652.02
+203 saiu da fila e foi para a doca 652.02
+204 chegou no posto em 653.39
+204 entrou na fila para carregar em 653.39
+204 saiu da fila e foi para a doca 653.39
+204 permaneceu na doca por 0.65
+202 permaneceu na doca por 10.06
+205 chegou no posto em 661.78
+205 entrou na fila para carregar em 661.78
+205 saiu da fila e foi para a doca 661.78
+206 chegou no posto em 661.87
+206 entrou na fila para carregar em 661.87
+206 saiu da fila e foi para a doca 661.87
+207 chegou no posto em 661.95
+207 entrou na fila para carregar em 661.95
+207 saiu da fila e foi para a doca 661.95
+203 permaneceu na doca por 10.55
+208 chegou no posto em 664.17
+208 entrou na fila para carregar em 664.17
+208 saiu da fila e foi para a doca 664.17
+209 chegou no posto em 666.62
+209 entrou na fila para carregar em 666.62
+209 saiu da fila e foi para a doca 666.62
+210 chegou no posto em 670.14
+210 entrou na fila para carregar em 670.14
+210 saiu da fila e foi para a doca 670.14
+211 chegou no posto em 671.16
+211 entrou na fila para carregar em 671.16
+211 saiu da fila e foi para a doca 671.16
+212 chegou no posto em 671.19
+212 entrou na fila para carregar em 671.19
+212 saiu da fila e foi para a doca 671.19
+206 permaneceu na doca por 9.97
+208 permaneceu na doca por 7.76
+205 permaneceu na doca por 10.75
+213 chegou no posto em 673.38
+213 entrou na fila para carregar em 673.38
+213 saiu da fila e foi para a doca 673.38
+207 permaneceu na doca por 11.56
+211 permaneceu na doca por 3.73
+210 permaneceu na doca por 6.64
+213 permaneceu na doca por 4.38
+214 chegou no posto em 680.82
+214 entrou na fila para carregar em 680.82
+214 saiu da fila e foi para a doca 680.82
+209 permaneceu na doca por 15.41
+215 chegou no posto em 682.22
+215 entrou na fila para carregar em 682.22
+215 saiu da fila e foi para a doca 682.22
+212 permaneceu na doca por 11.14
+214 permaneceu na doca por 7.66
+216 chegou no posto em 690.27
+216 entrou na fila para carregar em 690.27
+216 saiu da fila e foi para a doca 690.27
+215 permaneceu na doca por 8.65
+217 chegou no posto em 691.41
+217 entrou na fila para carregar em 691.41
+217 saiu da fila e foi para a doca 691.41
+218 chegou no posto em 691.98
+218 entrou na fila para carregar em 691.98
+218 saiu da fila e foi para a doca 691.98
+217 permaneceu na doca por 4.72
+219 chegou no posto em 697.07
+219 entrou na fila para carregar em 697.07
+219 saiu da fila e foi para a doca 697.07
+220 chegou no posto em 697.68
+220 entrou na fila para carregar em 697.68
+220 saiu da fila e foi para a doca 697.68
+216 permaneceu na doca por 8.47
+221 chegou no posto em 700.24
+221 entrou na fila para carregar em 700.24
+221 saiu da fila e foi para a doca 700.24
+222 chegou no posto em 701.53
+222 entrou na fila para carregar em 701.53
+222 saiu da fila e foi para a doca 701.53
+219 permaneceu na doca por 5.93
+223 chegou no posto em 703.73
+223 entrou na fila para carregar em 703.73
+223 saiu da fila e foi para a doca 703.73
+224 chegou no posto em 704.30
+224 entrou na fila para carregar em 704.30
+224 saiu da fila e foi para a doca 704.30
+218 permaneceu na doca por 14.30
+220 permaneceu na doca por 11.38
+221 permaneceu na doca por 8.89
+223 permaneceu na doca por 10.10
+225 chegou no posto em 715.49
+225 entrou na fila para carregar em 715.49
+225 saiu da fila e foi para a doca 715.49
+222 permaneceu na doca por 15.33
+224 permaneceu na doca por 12.70
+226 chegou no posto em 722.44
+226 entrou na fila para carregar em 722.44
+226 saiu da fila e foi para a doca 722.44
+227 chegou no posto em 722.74
+227 entrou na fila para carregar em 722.74
+227 saiu da fila e foi para a doca 722.74
+228 chegou no posto em 722.94
+228 entrou na fila para carregar em 722.94
+228 saiu da fila e foi para a doca 722.94
+225 permaneceu na doca por 7.73
+227 permaneceu na doca por 2.57
+228 permaneceu na doca por 6.51
+226 permaneceu na doca por 9.26
+229 chegou no posto em 734.05
+229 entrou na fila para carregar em 734.05
+229 saiu da fila e foi para a doca 734.05
+230 chegou no posto em 734.60
+230 entrou na fila para carregar em 734.60
+230 saiu da fila e foi para a doca 734.60
+231 chegou no posto em 737.92
+231 entrou na fila para carregar em 737.92
+231 saiu da fila e foi para a doca 737.92
+232 chegou no posto em 739.86
+232 entrou na fila para carregar em 739.86
+232 saiu da fila e foi para a doca 739.86
+233 chegou no posto em 741.76
+233 entrou na fila para carregar em 741.76
+233 saiu da fila e foi para a doca 741.76
+234 chegou no posto em 743.59
+234 entrou na fila para carregar em 743.59
+234 saiu da fila e foi para a doca 743.59
+229 permaneceu na doca por 10.35
+230 permaneceu na doca por 12.31
+233 permaneceu na doca por 6.67
+232 permaneceu na doca por 8.82
+231 permaneceu na doca por 14.28
+234 permaneceu na doca por 12.35
+235 chegou no posto em 756.07
+235 entrou na fila para carregar em 756.07
+235 saiu da fila e foi para a doca 756.07
+236 chegou no posto em 756.82
+236 entrou na fila para carregar em 756.82
+236 saiu da fila e foi para a doca 756.82
+236 permaneceu na doca por 2.72
+237 chegou no posto em 761.03
+237 entrou na fila para carregar em 761.03
+237 saiu da fila e foi para a doca 761.03
+238 chegou no posto em 762.90
+238 entrou na fila para carregar em 762.90
+238 saiu da fila e foi para a doca 762.90
+239 chegou no posto em 765.01
+239 entrou na fila para carregar em 765.01
+239 saiu da fila e foi para a doca 765.01
+235 permaneceu na doca por 9.93
+240 chegou no posto em 768.37
+240 entrou na fila para carregar em 768.37
+240 saiu da fila e foi para a doca 768.37
+241 chegou no posto em 768.44
+241 entrou na fila para carregar em 768.44
+241 saiu da fila e foi para a doca 768.44
+237 permaneceu na doca por 7.88
+238 permaneceu na doca por 6.75
+242 chegou no posto em 770.64
+242 entrou na fila para carregar em 770.64
+242 saiu da fila e foi para a doca 770.64
+243 chegou no posto em 772.43
+243 entrou na fila para carregar em 772.43
+243 saiu da fila e foi para a doca 772.43
+239 permaneceu na doca por 7.56
+240 permaneceu na doca por 10.05
+244 chegou no posto em 779.82
+244 entrou na fila para carregar em 779.82
+244 saiu da fila e foi para a doca 779.82
+241 permaneceu na doca por 12.63
+242 permaneceu na doca por 12.35
+243 permaneceu na doca por 12.44
+245 chegou no posto em 785.14
+245 entrou na fila para carregar em 785.14
+245 saiu da fila e foi para a doca 785.14
+246 chegou no posto em 788.28
+246 entrou na fila para carregar em 788.28
+246 saiu da fila e foi para a doca 788.28
+244 permaneceu na doca por 8.85
+247 chegou no posto em 789.24
+247 entrou na fila para carregar em 789.24
+247 saiu da fila e foi para a doca 789.24
+248 chegou no posto em 791.71
+248 entrou na fila para carregar em 791.71
+248 saiu da fila e foi para a doca 791.71
+247 permaneceu na doca por 5.52
+245 permaneceu na doca por 11.43
+249 chegou no posto em 797.52
+249 entrou na fila para carregar em 797.52
+249 saiu da fila e foi para a doca 797.52
+250 chegou no posto em 798.17
+250 entrou na fila para carregar em 798.17
+250 saiu da fila e foi para a doca 798.17
+251 chegou no posto em 802.63
+251 entrou na fila para carregar em 802.63
+251 saiu da fila e foi para a doca 802.63
+246 permaneceu na doca por 14.37
+249 permaneceu na doca por 6.45
+252 chegou no posto em 804.30
+252 entrou na fila para carregar em 804.30
+252 saiu da fila e foi para a doca 804.30
+248 permaneceu na doca por 13.05
+253 chegou no posto em 805.02
+253 entrou na fila para carregar em 805.02
+253 saiu da fila e foi para a doca 805.02
+254 chegou no posto em 809.40
+254 entrou na fila para carregar em 809.40
+254 saiu da fila e foi para a doca 809.40
+251 permaneceu na doca por 7.40
+250 permaneceu na doca por 12.00
+255 chegou no posto em 813.49
+255 entrou na fila para carregar em 813.49
+255 saiu da fila e foi para a doca 813.49
+256 chegou no posto em 814.24
+256 entrou na fila para carregar em 814.24
+256 saiu da fila e foi para a doca 814.24
+257 chegou no posto em 814.70
+257 entrou na fila para carregar em 814.70
+257 saiu da fila e foi para a doca 814.70
+254 permaneceu na doca por 6.30
+258 chegou no posto em 816.12
+258 entrou na fila para carregar em 816.12
+258 saiu da fila e foi para a doca 816.12
+259 chegou no posto em 816.38
+259 entrou na fila para carregar em 816.38
+259 saiu da fila e foi para a doca 816.38
+252 permaneceu na doca por 12.35
+260 chegou no posto em 817.17
+260 entrou na fila para carregar em 817.17
+260 saiu da fila e foi para a doca 817.17
+253 permaneceu na doca por 12.30
+261 chegou no posto em 818.26
+261 entrou na fila para carregar em 818.26
+261 saiu da fila e foi para a doca 818.26
+255 permaneceu na doca por 7.12
+256 permaneceu na doca por 7.22
+262 chegou no posto em 823.66
+262 entrou na fila para carregar em 823.66
+262 saiu da fila e foi para a doca 823.66
+259 permaneceu na doca por 10.35
+257 permaneceu na doca por 12.13
+258 permaneceu na doca por 10.83
+263 chegou no posto em 827.33
+263 entrou na fila para carregar em 827.33
+263 saiu da fila e foi para a doca 827.33
+264 chegou no posto em 829.28
+264 entrou na fila para carregar em 829.28
+264 saiu da fila e foi para a doca 829.28
+261 permaneceu na doca por 11.33
+265 chegou no posto em 830.97
+265 entrou na fila para carregar em 830.97
+265 saiu da fila e foi para a doca 830.97
+260 permaneceu na doca por 14.30
+262 permaneceu na doca por 8.64
+266 chegou no posto em 832.53
+266 entrou na fila para carregar em 832.53
+266 saiu da fila e foi para a doca 832.53
+267 chegou no posto em 833.16
+267 entrou na fila para carregar em 833.16
+267 saiu da fila e foi para a doca 833.16
+263 permaneceu na doca por 7.74
+268 chegou no posto em 836.25
+268 entrou na fila para carregar em 836.25
+268 saiu da fila e foi para a doca 836.25
+264 permaneceu na doca por 7.56
+269 chegou no posto em 839.01
+269 entrou na fila para carregar em 839.01
+269 saiu da fila e foi para a doca 839.01
+266 permaneceu na doca por 6.92
+267 permaneceu na doca por 6.70
+265 permaneceu na doca por 10.35
+270 chegou no posto em 843.16
+270 entrou na fila para carregar em 843.16
+270 saiu da fila e foi para a doca 843.16
+271 chegou no posto em 844.21
+271 entrou na fila para carregar em 844.21
+271 saiu da fila e foi para a doca 844.21
+268 permaneceu na doca por 11.02
+272 chegou no posto em 848.15
+272 entrou na fila para carregar em 848.15
+272 saiu da fila e foi para a doca 848.15
+269 permaneceu na doca por 12.59
+273 chegou no posto em 852.72
+273 entrou na fila para carregar em 852.72
+273 saiu da fila e foi para a doca 852.72
+271 permaneceu na doca por 8.68
+274 chegou no posto em 852.90
+274 entrou na fila para carregar em 852.90
+274 saiu da fila e foi para a doca 852.90
+275 chegou no posto em 854.41
+275 entrou na fila para carregar em 854.41
+275 saiu da fila e foi para a doca 854.41
+276 chegou no posto em 855.48
+276 entrou na fila para carregar em 855.48
+276 saiu da fila e foi para a doca 855.48
+270 permaneceu na doca por 14.11
+277 chegou no posto em 857.52
+277 entrou na fila para carregar em 857.52
+277 saiu da fila e foi para a doca 857.52
+276 permaneceu na doca por 2.29
+278 chegou no posto em 857.95
+278 entrou na fila para carregar em 857.95
+278 saiu da fila e foi para a doca 857.95
+272 permaneceu na doca por 10.89
+279 chegou no posto em 859.27
+279 entrou na fila para carregar em 859.27
+279 saiu da fila e foi para a doca 859.27
+280 chegou no posto em 859.61
+280 entrou na fila para carregar em 859.61
+280 saiu da fila e foi para a doca 859.61
+273 permaneceu na doca por 7.76
+277 permaneceu na doca por 3.84
+274 permaneceu na doca por 10.36
+275 permaneceu na doca por 10.59
+278 permaneceu na doca por 9.17
+279 permaneceu na doca por 8.22
+280 permaneceu na doca por 9.57
+281 chegou no posto em 872.36
+281 entrou na fila para carregar em 872.36
+281 saiu da fila e foi para a doca 872.36
+282 chegou no posto em 872.94
+282 entrou na fila para carregar em 872.94
+282 saiu da fila e foi para a doca 872.94
+283 chegou no posto em 877.58
+283 entrou na fila para carregar em 877.58
+283 saiu da fila e foi para a doca 877.58
+284 chegou no posto em 878.21
+284 entrou na fila para carregar em 878.21
+284 saiu da fila e foi para a doca 878.21
+285 chegou no posto em 878.70
+285 entrou na fila para carregar em 878.70
+285 saiu da fila e foi para a doca 878.70
+281 permaneceu na doca por 7.31
+286 chegou no posto em 881.10
+286 entrou na fila para carregar em 881.10
+286 saiu da fila e foi para a doca 881.10
+282 permaneceu na doca por 9.27
+287 chegou no posto em 884.96
+287 entrou na fila para carregar em 884.96
+287 saiu da fila e foi para a doca 884.96
+288 chegou no posto em 885.54
+288 entrou na fila para carregar em 885.54
+288 saiu da fila e foi para a doca 885.54
+289 chegou no posto em 887.09
+289 entrou na fila para carregar em 887.09
+289 saiu da fila e foi para a doca 887.09
+284 permaneceu na doca por 9.59
+286 permaneceu na doca por 6.73
+285 permaneceu na doca por 11.08
+290 chegou no posto em 891.35
+290 entrou na fila para carregar em 891.35
+290 saiu da fila e foi para a doca 891.35
+283 permaneceu na doca por 14.08
+287 permaneceu na doca por 9.54
+291 chegou no posto em 895.03
+291 entrou na fila para carregar em 895.03
+291 saiu da fila e foi para a doca 895.03
+289 permaneceu na doca por 9.39
+288 permaneceu na doca por 12.32
+292 chegou no posto em 899.58
+292 entrou na fila para carregar em 899.58
+292 saiu da fila e foi para a doca 899.58
+293 chegou no posto em 903.75
+293 entrou na fila para carregar em 903.75
+293 saiu da fila e foi para a doca 903.75
+290 permaneceu na doca por 14.28
+294 chegou no posto em 906.60
+294 entrou na fila para carregar em 906.60
+294 saiu da fila e foi para a doca 906.60
+295 chegou no posto em 906.61
+295 entrou na fila para carregar em 906.61
+295 saiu da fila e foi para a doca 906.61
+292 permaneceu na doca por 7.19
+291 permaneceu na doca por 12.92
+296 chegou no posto em 911.08
+296 entrou na fila para carregar em 911.08
+296 saiu da fila e foi para a doca 911.08
+297 chegou no posto em 911.47
+297 entrou na fila para carregar em 911.47
+297 saiu da fila e foi para a doca 911.47
+298 chegou no posto em 912.22
+298 entrou na fila para carregar em 912.22
+298 saiu da fila e foi para a doca 912.22
+294 permaneceu na doca por 6.58
+299 chegou no posto em 914.57
+299 entrou na fila para carregar em 914.57
+299 saiu da fila e foi para a doca 914.57
+295 permaneceu na doca por 8.24
+300 chegou no posto em 915.58
+300 entrou na fila para carregar em 915.58
+300 saiu da fila e foi para a doca 915.58
+293 permaneceu na doca por 13.86
+301 chegou no posto em 918.43
+301 entrou na fila para carregar em 918.43
+301 saiu da fila e foi para a doca 918.43
+302 chegou no posto em 919.61
+302 entrou na fila para carregar em 919.61
+302 saiu da fila e foi para a doca 919.61
+298 permaneceu na doca por 7.94
+301 permaneceu na doca por 2.32
+296 permaneceu na doca por 10.15
+299 permaneceu na doca por 7.73
+300 permaneceu na doca por 6.81
+297 permaneceu na doca por 11.05
+302 permaneceu na doca por 3.90
+303 chegou no posto em 924.89
+303 entrou na fila para carregar em 924.89
+303 saiu da fila e foi para a doca 924.89
+304 chegou no posto em 926.56
+304 entrou na fila para carregar em 926.56
+304 saiu da fila e foi para a doca 926.56
+305 chegou no posto em 927.31
+305 entrou na fila para carregar em 927.31
+305 saiu da fila e foi para a doca 927.31
+306 chegou no posto em 929.20
+306 entrou na fila para carregar em 929.20
+306 saiu da fila e foi para a doca 929.20
+304 permaneceu na doca por 5.54
+306 permaneceu na doca por 4.57
+307 chegou no posto em 935.50
+307 entrou na fila para carregar em 935.50
+307 saiu da fila e foi para a doca 935.50
+308 chegou no posto em 937.28
+308 entrou na fila para carregar em 937.28
+308 saiu da fila e foi para a doca 937.28
+303 permaneceu na doca por 12.93
+305 permaneceu na doca por 12.03
+309 chegou no posto em 940.48
+309 entrou na fila para carregar em 940.48
+309 saiu da fila e foi para a doca 940.48
+310 chegou no posto em 940.90
+310 entrou na fila para carregar em 940.90
+310 saiu da fila e foi para a doca 940.90
+311 chegou no posto em 943.69
+311 entrou na fila para carregar em 943.69
+311 saiu da fila e foi para a doca 943.69
+307 permaneceu na doca por 8.33
+311 permaneceu na doca por 4.09
+312 chegou no posto em 948.06
+312 entrou na fila para carregar em 948.06
+312 saiu da fila e foi para a doca 948.06
+310 permaneceu na doca por 8.58
+308 permaneceu na doca por 13.41
+309 permaneceu na doca por 11.56
+313 chegou no posto em 953.61
+313 entrou na fila para carregar em 953.61
+313 saiu da fila e foi para a doca 953.61
+314 chegou no posto em 953.82
+314 entrou na fila para carregar em 953.82
+314 saiu da fila e foi para a doca 953.82
+315 chegou no posto em 956.01
+315 entrou na fila para carregar em 956.01
+315 saiu da fila e foi para a doca 956.01
+316 chegou no posto em 956.66
+316 entrou na fila para carregar em 956.66
+316 saiu da fila e foi para a doca 956.66
+317 chegou no posto em 960.28
+317 entrou na fila para carregar em 960.28
+317 saiu da fila e foi para a doca 960.28
+318 chegou no posto em 962.61
+318 entrou na fila para carregar em 962.61
+318 saiu da fila e foi para a doca 962.61
+314 permaneceu na doca por 9.32
+315 permaneceu na doca por 7.62
+313 permaneceu na doca por 10.95
+316 permaneceu na doca por 10.93
+319 chegou no posto em 968.07
+319 entrou na fila para carregar em 968.07
+319 saiu da fila e foi para a doca 968.07
+320 chegou no posto em 968.10
+320 entrou na fila para carregar em 968.10
+320 saiu da fila e foi para a doca 968.10
+321 chegou no posto em 968.12
+321 entrou na fila para carregar em 968.12
+321 saiu da fila e foi para a doca 968.12
+312 permaneceu na doca por 20.88
+317 permaneceu na doca por 9.43
+318 permaneceu na doca por 10.54
+322 chegou no posto em 973.31
+322 entrou na fila para carregar em 973.31
+322 saiu da fila e foi para a doca 973.31
+323 chegou no posto em 974.20
+323 entrou na fila para carregar em 974.20
+323 saiu da fila e foi para a doca 974.20
+321 permaneceu na doca por 8.45
+320 permaneceu na doca por 8.55
+319 permaneceu na doca por 10.12
+324 chegou no posto em 979.07
+324 entrou na fila para carregar em 979.07
+324 saiu da fila e foi para a doca 979.07
+323 permaneceu na doca por 5.66
+322 permaneceu na doca por 12.30
+325 chegou no posto em 986.96
+325 entrou na fila para carregar em 986.96
+325 saiu da fila e foi para a doca 986.96
+324 permaneceu na doca por 8.80
+326 chegou no posto em 993.75
+326 entrou na fila para carregar em 993.75
+326 saiu da fila e foi para a doca 993.75
+327 chegou no posto em 995.37
+327 entrou na fila para carregar em 995.37
+327 saiu da fila e foi para a doca 995.37
+328 chegou no posto em 998.82
+328 entrou na fila para carregar em 998.82
+328 saiu da fila e foi para a doca 998.82
+325 permaneceu na doca por 12.48
+329 chegou no posto em 999.45
+329 entrou na fila para carregar em 999.45
+329 saiu da fila e foi para a doca 999.45
